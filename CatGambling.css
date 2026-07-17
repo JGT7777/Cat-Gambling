@@ -1,0 +1,148 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #cdff07;
+    text-align: center;
+
+    padding-top: 40px;
+}
+
+
+#titulo {
+    font-size: 60px;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+
+.corner-slot {
+    position: absolute;
+    top: 20px;
+    width: 150px;
+
+    height: 150px;
+    border-radius: 15px;
+    background: white;
+    overflow: hidden;
+}
+
+#corner-left {
+    left: 20px;
+    width: 257px;
+    height: 132px;
+}
+
+
+#corner-right {
+    right: 20px;
+}
+
+.corner-slot img {
+    width: 100%;
+
+    height: 100%;
+    object-fit: cover;
+}
+
+
+#GatiñoPanel {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 25px;
+}
+
+.slot {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    overflow: hidden;
+    background: white;
+}
+
+.slot img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#spin {
+    width: 220px;
+    height: 90px;
+    background: red;
+
+    border: none;
+
+    border-radius: 25px;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0px 10px 0px #8b0000;
+    transition: transform 0.1s, box-shadow 0.1s, opacity 0.2s;
+}
+
+#spin:active,
+#spin.pressed {
+    transform: translateY(8px);
+
+    box-shadow: 0px 2px 0px #8b0000;
+}
+
+
+#spin.hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+
+#resultado {
+    margin-top: 40px;
+}
+
+#resultado h2 {
+    font-size: 40px;
+}
+
+
+#resultado h3 {
+    font-size: 30px;
+    margin-top: 10px;
+    color: #ff0000;
+    font-weight: 900;
+    text-shadow: 2px 2px 0px white;
+}
+
+
+
+
+
+
+#resultado-gatos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+
+    margin-top: 20px;
+}
+
+
+.separator {
+    width: 40px;
+    height: 6px;
+    background: #ff0000;
+    border-radius: 5px;
+}
+
+.resultado-item img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 20px;
+
+}
+
+.resultado-item h3 {
+    margin-top: 10px;
+}
