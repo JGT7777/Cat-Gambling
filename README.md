@@ -1,7 +1,8 @@
 # Cat-Gambling
--------------------------------------------
+-----------------------------------------
 Español
--------------------------------------------
+-----------------------------------------
+.
 
 Para crearlo, primero pensé en una ruleta normal con gatitos y razas de gatos, donde al girarla elegiría tu raza. Pero al intentarlo vi que era muy complicado y un dolor de cabeza, además de requerir muchas horas. Así que busqué otra idea gatuna 😸, porque los amo, y me dije: ¿por qué no hacerlo como una máquina tragamonedas de videojuegos? Eso fue mucho más fácil para mí porque hicimos algo similar en la escuela.Empecé a buscar fotos de gatos, y como yo tengo dos, ¿por qué no añadirlos? Luego recordé un sticker de WhatsApp que tengo de un gato mirando de lado y pensé: "¡Es perfecto!". Y bueno, de eso trata este juego. Lo malo es que quiero agregarle sonido pero no sé cómo, y como no tengo mucho tiempo, decidí dejarlo sin sonido... pero creo que está bastante bien 😸.El objetivo en este juego es conseguir el catpot :D Tiene más de diez gatos de memes, solo tienes que presionar la tecla --> Espacio <-- y hará girar a los gatos :D (Mis 2 gatos están en... [el texto original se corta aquí]).
 --------------------------------------------
